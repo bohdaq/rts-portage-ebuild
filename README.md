@@ -1,4 +1,4 @@
-## Gentoo Ebuild for Rust Web Server
+## Gentoo Ebuild for Rust TLS Server
 
 ### To install rws as Gentoo ebuild:
 
