@@ -2,9 +2,9 @@
 
 ### To install rws as Gentoo ebuild:
 
-- Make sure you have [Rust installed](https://www.rust-lang.org/tools/install).
+- Make sure you have Rust installed
 
-> rustup update stable
+> emerge --ask dev-lang/rust-bin
 
 - Clone repository
 
