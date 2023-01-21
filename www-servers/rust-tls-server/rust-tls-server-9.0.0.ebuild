@@ -28,6 +28,7 @@ CRATES="
 	quote-1.0.23
 	rcgen-0.10.0
 	ring-0.16.20
+	file-ext-9.0.3
 	rust-web-server-8.0.6
 	serde-1.0.152
 	spin-0.5.2
