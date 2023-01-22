@@ -25,7 +25,7 @@
 
 #### Install rust-tls-server
 
-> git clone git@github.com:bohdaq/rts-portage-ebuild.git
+> git clone https://github.com/bohdaq/rts-portage-ebuild.git
 
 > cd rts-portage-ebuild
 
