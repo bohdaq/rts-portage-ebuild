@@ -46,5 +46,5 @@
 Press Ctrl + C (or CMD + C) to stop server.
 
 
-### To remove rws:
+### To remove rts:
 > emerge --ask --depclean rust-tls-server
